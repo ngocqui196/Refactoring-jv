@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Animale-interface-edible/Animale-interface-edible.iml" filepath="$PROJECT_DIR$/Animale-interface-edible/Animale-interface-edible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Baitap/Baitap.iml" filepath="$PROJECT_DIR$/Baitap/Baitap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankInterestRate/BankInterestRate.iml" filepath="$PROJECT_DIR$/BankInterestRate/BankInterestRate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable-Circle-jv/Comparable-Circle-jv.iml" filepath="$PROJECT_DIR$/Comparable-Circle-jv/Comparable-Circle-jv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creature/Creature.iml" filepath="$PROJECT_DIR$/Creature/Creature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hien-thi-cac-loai-hinh/Hien-thi-cac-loai-hinh.iml" filepath="$PROJECT_DIR$/Hien-thi-cac-loai-hinh/Hien-thi-cac-loai-hinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leapyear/Leapyear.iml" filepath="$PROJECT_DIR$/Leapyear/Leapyear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectanger-jv/Rectanger-jv.iml" filepath="$PROJECT_DIR$/Rectanger-jv/Rectanger-jv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring-jv/Refactoring-jv.iml" filepath="$PROJECT_DIR$/Refactoring-jv/Refactoring-jv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprin-Hello/Sprin-Hello.iml" filepath="$PROJECT_DIR$/Sprin-Hello/Sprin-Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StopWatch-jv/StopWatch-jv.iml" filepath="$PROJECT_DIR$/StopWatch-jv/StopWatch-jv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thiet-ke-menu/Thiet-ke-menu.iml" filepath="$PROJECT_DIR$/Thiet-ke-menu/Thiet-ke-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkIsPrime/checkIsPrime.iml" filepath="$PROJECT_DIR$/checkIsPrime/checkIsPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countDayOfMonthInYear/countDayOfMonthInYear.iml" filepath="$PROJECT_DIR$/countDayOfMonthInYear/countDayOfMonthInYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/untitled2/untitled2.iml" />
+    </modules>
+  </component>
+</project>
